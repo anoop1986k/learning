@@ -1,1 +1,1 @@
-This repo is for learning projects
+This repo is for all learning projects.
