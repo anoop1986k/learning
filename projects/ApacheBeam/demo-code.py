@@ -4,7 +4,7 @@ def SplitRow(element):
     return element.split(',')
 
 def filtering(record):
-  return record[3] == 'Accounts'
+  return record[3] == 'Finance'
 
 
 p1 = beam.Pipeline()
